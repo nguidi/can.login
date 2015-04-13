@@ -1,0 +1,25 @@
+{
+  "name": "can.login",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nguidi/can.login.git",
+    "github": "https://github.com/nguidi/can.login"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "canjs": "git://github.com/bitovi/canjs#minor",
+    "steal": "~0.4.0",
+    "jquery": "1.11.2"
+  }
+, "devDependencies":
+  {
+    "bootstrap": "~3.3.1",
+    "funcunit": "~2.0.4"
+  }
+}

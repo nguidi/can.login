@@ -1,0 +1,18 @@
+{
+	"name": "can.login",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:nguidi/can.login.git",
+		"github": "https://github.com/nguidi/can.login"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/mit-license.php"
+		}
+	],
+	"devDependencies": {
+		"steal-tools": "^0.5.0"
+	}
+}
